@@ -11,6 +11,7 @@ Before running the program, make sure you have:
   
 ## How to Clone the Repository
 If you're using Git, you can clone this project by running:
+https://github.com/maryam884/rhms-.git
 
 ## How to Run It
 ### Step 1: Compile the Code
